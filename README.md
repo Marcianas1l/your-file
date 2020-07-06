@@ -5,7 +5,7 @@
 
 ### HTML5, CSS3 e FLEXBOX
 
-![your-file](imagens/file.gif)
+![your-file](images/file.gif)
 
 Link: https://marcianas1l.github.io/your-file/
 
